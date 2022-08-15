@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: GPL-3.0
 pragma solidity =0.6.12;
 
-import '@venomswap/core/contracts/interfaces/IUniswapV2Pair.sol';
+import '@huskyswap/core/contracts/interfaces/IUniswapV2Pair.sol';
 
 import "./SafeMath.sol";
 

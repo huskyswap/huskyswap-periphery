@@ -213,6 +213,16 @@
     "@ethersproject/properties" "^5.0.7"
     "@ethersproject/strings" "^5.0.8"
 
+"@huskyswap/core@1.0.0":
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/@huskyswap/core/-/core-1.0.0.tgz#f054a7dd79feaa193418b3667a69b219ee57d3ae"
+  integrity sha512-OPFpd2jMCpdGNFk4yxQceWTI2pG8dLO7oiIn8DfKyrvi4AtVGI2KaFN4kk4+Kc8PoQTjreQSWR1WSMMvqmORWQ==
+
+"@huskyswap/lib@1.0.0":
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/@huskyswap/lib/-/lib-1.0.0.tgz#fc92530b33fe8e1ee1fd4049a8830451ee6cc5ff"
+  integrity sha512-5i3sPxpoNx7fcideyEiGFigwCYpoPY0Wf1TSQSjrq/tmCMImjPhvQ1wt0AzYMhk5TgG6NLO3eltugLmlV/sAAQ==
+
 "@resolver-engine/core@^0.3.3":
   version "0.3.3"
   resolved "https://registry.yarnpkg.com/@resolver-engine/core/-/core-0.3.3.tgz#590f77d85d45bc7ecc4e06c654f41345db6ca967"
@@ -324,16 +334,6 @@
   integrity sha512-+ZjSA8ELlOp8SlKi0YLB2tz9d5iPNEmOBd+8Rz21wTMdaXQIa9b6TEnD6l5qKOCypE7FSyPyck12qZJxSDNoog==
   dependencies:
     "@types/node" "*"
-
-"@venomswap/core@1.0.0":
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/@venomswap/core/-/core-1.0.0.tgz#f1336702e8ecce6b79b06212220da43a34b3749c"
-  integrity sha512-cd4+e5KKH7QmSjMhe50lty35eHuZVTh9YYnkWPdQPe6KG3R5P5JE3LFliwNLpuV4jWEYYRlEa3OaG3ie+BlYrg==
-
-"@venomswap/lib@1.0.0":
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/@venomswap/lib/-/lib-1.0.0.tgz#8e76f9d2746c8f0a892ba0a28c7ec7d14bec609c"
-  integrity sha512-3i0gg+Xlm6n0sy0oJi3SaOd8sARH92vWrdphJMRo7cObR9dp0IvXLcXV2eDxQto0Faa1IB/FOpx/NqgtopiQvA==
 
 "@yarnpkg/lockfile@^1.1.0":
   version "1.1.0"
